@@ -1,3 +1,4 @@
+<html>
 <head>
 <style>
 img {
@@ -22,3 +23,4 @@ img {
 [![Roaldi's github trophy](https://github-profile-trophy.vercel.app/?username=roaldi&row=1)]
 
 </body>
+</html>
