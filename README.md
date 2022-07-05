@@ -1,3 +1,4 @@
+<head>
 <style>
 img {
   display: block;
@@ -5,6 +6,7 @@ img {
   margin-right: auto;
 }
 </style>
+</head>
 
 ## Some people have lives
 ### I have a github
