@@ -1,26 +1,21 @@
-<html>
-<head>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-
-## Some people have lives
-### I have a github
-<body style="vertical-align: middle;margin: auto;">
+<h1 align="center">
+Some people have lives
+</h1>
+<h2 align="center">
+I have a github
+</h2>
+<p align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaldi&theme=blue-green">
+</p>
   
-<a><img  align="center"  src="https://www.herokucdn.com/deploy/button.svg](https://github-readme-stats.vercel.app/api/top-langs/?username=roaldi&theme=blue-green)" alt="Deploy"></a>
-  
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roaldi&theme=blue-green)]
+<p align="center">  
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=roaldi&theme=blue-green">
+</p>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=roaldi&theme=blue-green)]
+<p align="center">
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=roaldi&theme=blue-green">
+</p>
 
-[![Roaldi's github trophy](https://github-profile-trophy.vercel.app/?username=roaldi&row=1)]
-
-</body>
-</html>
+<p align="center"> 
+<img  align="center"  src="https://github-profile-trophy.vercel.app/?username=roaldi&row=1">
+</p>
