@@ -1,3 +1,4 @@
+<style>
 img {
   display: block;
   margin-left: auto;
